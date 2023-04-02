@@ -1,0 +1,31 @@
+2023-04-02 23:56:28.264113 - Initialized conversion of CBT387
+2023-04-02 23:56:28.765024 - Received CBT.V504.FILE387.PDS from FILE387.XMI 
+2023-04-02 23:56:28.767618 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/$$$#DATE
+2023-04-02 23:56:28.768673 - Found $$README.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/$$README
+2023-04-02 23:56:28.769756 - Found $$XPLPAS.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/$$XPLPAS
+2023-04-02 23:56:28.770802 - Found @FILE387.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/@FILE387
+2023-04-02 23:56:28.771824 - Found FILE01.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE01
+2023-04-02 23:56:28.772950 - Found FILE02.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE02
+2023-04-02 23:56:28.773949 - Found FILE03.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE03
+2023-04-02 23:56:28.773961 - Found FILE04.bin containing application/octet-stream, moved to PDS/FILE04
+2023-04-02 23:56:28.776001 - Found FILE05.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE05
+2023-04-02 23:56:28.776010 - Found FILE06.bin containing application/octet-stream, moved to PDS/FILE06
+2023-04-02 23:56:28.778101 - Found FILE07.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE07
+2023-04-02 23:56:28.778112 - Found FILE08.bin containing application/octet-stream, moved to PDS/FILE08
+2023-04-02 23:56:28.780295 - Found FILE09.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE09
+2023-04-02 23:56:28.780303 - Found FILE10.bin containing application/octet-stream, moved to PDS/FILE10
+2023-04-02 23:56:28.782270 - Found FILE11.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE11
+2023-04-02 23:56:28.782280 - Found FILE12.bin containing application/octet-stream, moved to PDS/FILE12
+2023-04-02 23:56:28.784263 - Found FILE13.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE13
+2023-04-02 23:56:28.785339 - Found FILE14.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE14
+2023-04-02 23:56:28.785347 - Found FILE15.bin containing application/octet-stream, moved to PDS/FILE15
+2023-04-02 23:56:28.787715 - Found FILE16.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE16
+2023-04-02 23:56:28.788634 - Found FILE17.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE17
+2023-04-02 23:56:28.789531 - Found FILE18.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE18
+2023-04-02 23:56:28.790368 - Found FILE19.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE19
+2023-04-02 23:56:28.791286 - Found FILE20.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE20
+2023-04-02 23:56:28.792315 - Found FILE21.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE21
+2023-04-02 23:56:28.793238 - Found FILE22.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE22
+2023-04-02 23:56:28.794242 - Found FILE23.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE23
+2023-04-02 23:56:28.795162 - Found FILE24.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE24
+2023-04-02 23:56:28.796158 - Found FILE25.txt (text/plain) in CBT.V504.FILE387.PDS, moved to PDS/FILE25
